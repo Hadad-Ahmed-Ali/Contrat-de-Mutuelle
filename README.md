@@ -7,7 +7,7 @@ L’objectif est double :
 1. Identifier les facteurs qui influencent la rupture de contrat en fonction des caractéristiques des adhérents (âge, statut de propriétaire, catégorie socio-professionnelle, etc.).
 2. Prédire la durée d’un contrat à partir de ces variables explicatives, en s’appuyant sur des approches statistiques et de modélisation.
 
-La mutuelle a prélevé un échantillon de 953 clients, comprenant à la fois des adhérents actuels et des anciens clients, qui nous a été mis à disposition. Ce jeu de données inclut des variables descriptives et des informations temporelles (date de souscription et de fin d’observation).
+Une base des doonnées clients, comprenant à la fois des adhérents actuels et des anciens clients, nous a été mis à disposition. Ce jeu de données inclut des variables descriptives et des informations temporelles (date de souscription et de fin d’observation).
 
 Le projet se déroule en trois étapes principales :
 
