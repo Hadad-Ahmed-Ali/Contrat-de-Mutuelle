@@ -14,11 +14,10 @@ Pour cela, la mutuelle a prélevé un échantillon de 953 personnes parmi ses cl
 On dispose en outre des variables DEBUT et FINOBS qui permettent de construire les variables de temps observé et d’indicateur de censure.
 DEBUT représente la date (en années) où l’adhérent a souscrit à sa mutuelle et FINOBS représente soit la date (en années) où l’adhérent a arrêté sa souscription (si la date est inférieure à 2015.80), soit la date 2015.80, qui correspond à la date d’extraction des données, et qui signifie que la personne est toujours adhérente à la mutuelle.
 
-Les objectifs demandés par la mutuelle, il nous est demandé d’effectuer les analyses suivantes:
-Nous devons aborder, et en fin apporter une conclusion, des analyses précises sur:
+La mutuelle nous a confié les objectifs suivants : effectuer des analyses approfondies et apporter des conclusions précises sur les points suivants :
 
 1. Analyse descriptive des données (statistiques descriptives univariées et bivariées) pour comprendre les profils des adhérents et leurs comportements.
-2. Analyses non-paramétriques des données (estimateur de Kaplan-Meier, tests du log-rang etc.) pour analyser les différences de survie entre groupes de profils.
+2. Analyses non-paramétriques des données pour analyser les différences de survie entre groupes de profils: Nous appliquerons l'estimateur de Kaplan-Meier, tests du log-rang etc. 
 3. Implémentation de deux modèles de régression pour expliquer les raisons associées à la rupture du contrat.
 
 
