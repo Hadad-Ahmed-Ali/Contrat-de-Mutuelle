@@ -16,4 +16,4 @@ Le projet se déroule en trois étapes principales :
 3. La mise en œuvre de modèle de régression pour expliquer les raisons associées à la rupture du contrat et d’améliorer la compréhension des dynamiques sous-jacentes.
 
 
-# Outil utilisé : R
+# Outil utilisé : R ( outil demandé par mon prof ), sinon je pourrais le faire avec Python
