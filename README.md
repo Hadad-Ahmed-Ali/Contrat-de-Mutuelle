@@ -1,3 +1,6 @@
+# NOTE:
+Le fichier HTML ci-joint contient le rapport du projet. Pour l'ouvrir, veuillez cliquer dessus. Vous verrez alors un code source. Cliquez sur l'icône en forme de flèche pour le télécharger. Une fois téléchargé, vous pourrez consulter le rapport en l'ouvrant dans votre navigateur.
+
 # Analyse de données de mutuelle sur la durée de contrat
 
 Ce projet vise à analyser les données d’une mutuelle afin de mieux comprendre les comportements de ses adhérents en matière de durée de contrat. La variable principale étudiée est la durée entre la souscription et la rupture du contrat, un indicateur clé pour la mutuelle, car une tendance à la résiliation a été observée, souvent au profit d’autres mutuelles.
